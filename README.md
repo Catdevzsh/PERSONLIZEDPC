@@ -40,7 +40,7 @@ Acknowledgments
 
 Acknowledge any contributors or sources that have been instrumental in the development of this project.
 Disclaimer
-
+I would like to thank SM64 Team and Nintendo & Co  for the work behind  the N64 Engine
 This project is a speculative and experimental emulation based on available information and does not claim to perfectly replicate the functionalities of the hypothetical Personalized Computer.
 
 Contact
