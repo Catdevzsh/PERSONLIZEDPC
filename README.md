@@ -44,7 +44,6 @@ I would like to thank SM64 Team and Nintendo & Co  for the work behind  the N64 
 This project is a speculative and experimental emulation based on available information and does not claim to perfectly replicate the functionalities of the hypothetical Personalized Computer.
 
 Contact
-
-For any inquiries or contributions, please contact [contact info or link].
+ 
 
 Note: This README is a template and may need further customization based on the specific details and development progress of your project. ​​
